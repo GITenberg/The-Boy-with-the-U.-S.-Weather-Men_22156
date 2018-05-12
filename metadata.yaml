@@ -1,0 +1,30 @@
+_repo: The-Boy-with-the-U.-S.-Weather-Men_22156
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22156-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rolt-Wheeler, Francis
+    alias: Rolt-Wheeler, Francis William
+    birthdate: 1876
+    deathdate: 1960
+    gutenberg_agent_id: '4886'
+    url: http://www.gutenberg.org/2009/agents/4886
+    wikipedia: http://fr.wikipedia.org/wiki/Francis_Rolt-Wheeler
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22156'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Weather Bureau -- Juvenile literature'
+- !lcc 'PZ'
+- !lcc 'QC'
+title: The Boy with the U. S. Weather Men
+url: http://www.gutenberg.org/ebooks/22156
