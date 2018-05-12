@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4886
     wikipedia: http://fr.wikipedia.org/wiki/Francis_Rolt-Wheeler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22156#The-Boy-with-the-U.-S.-Weather-Men
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2007-07-26'
 gutenberg_type: Text
